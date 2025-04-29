@@ -1,0 +1,689 @@
+Arquitetura: (10,)
+Ativação: relu
+Taxa de aprendizado: constant
+Max_iter configurado: 1000   
+Épocas usadas até parada: 392
+Acurácia: 0.965106
+Matriz de Confusão:
+[[552  22]
+ [ 19 582]]
+Relatório de Classificação:  
+              precision    recall  f1-score   support
+
+           0   0.966725  0.961672  0.964192       574
+           1   0.963576  0.968386  0.965975       601
+
+    accuracy                       0.965106      1175
+   macro avg   0.965151  0.965029  0.965084      1175
+weighted avg   0.965114  0.965106  0.965104      1175
+
+============================================================
+============================================================
+Arquitetura: (10,)
+Ativação: relu
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 392
+Acurácia: 0.965106
+Matriz de Confusão:
+[[552  22]
+ [ 19 582]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.966725  0.961672  0.964192       574
+           1   0.963576  0.968386  0.965975       601
+
+    accuracy                       0.965106      1175
+   macro avg   0.965151  0.965029  0.965084      1175
+weighted avg   0.965114  0.965106  0.965104      1175
+
+============================================================
+============================================================
+Arquitetura: (10,)
+Ativação: logistic
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 557
+Acurácia: 0.966809
+Matriz de Confusão:
+[[551  23]
+ [ 16 585]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.971781  0.959930  0.965819       574
+           1   0.962171  0.973378  0.967742       601
+
+    accuracy                       0.966809      1175
+   macro avg   0.966976  0.966654  0.966781      1175
+weighted avg   0.966866  0.966809  0.966803      1175
+
+============================================================
+============================================================
+Arquitetura: (10,)
+Ativação: logistic
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 557
+Acurácia: 0.966809
+Matriz de Confusão:
+[[551  23]
+ [ 16 585]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.971781  0.959930  0.965819       574
+           1   0.962171  0.973378  0.967742       601
+
+    accuracy                       0.966809      1175
+   macro avg   0.966976  0.966654  0.966781      1175
+weighted avg   0.966866  0.966809  0.966803      1175
+
+============================================================
+============================================================
+Arquitetura: (20,)
+Ativação: relu
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 386
+Acurácia: 0.964255
+Matriz de Confusão:
+[[551  23]
+ [ 19 582]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.966667  0.959930  0.963287       574
+           1   0.961983  0.968386  0.965174       601
+
+    accuracy                       0.964255      1175
+   macro avg   0.964325  0.964158  0.964230      1175
+weighted avg   0.964271  0.964255  0.964252      1175
+
+============================================================
+============================================================
+Arquitetura: (20,)
+Ativação: relu
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 386
+Acurácia: 0.964255
+Matriz de Confusão:
+[[551  23]
+ [ 19 582]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.966667  0.959930  0.963287       574
+           1   0.961983  0.968386  0.965174       601
+
+    accuracy                       0.964255      1175
+   macro avg   0.964325  0.964158  0.964230      1175
+weighted avg   0.964271  0.964255  0.964252      1175
+
+============================================================
+============================================================
+Arquitetura: (20,)
+Ativação: logistic
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 591
+Acurácia: 0.963404
+Matriz de Confusão:
+[[549  25]
+ [ 18 583]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.968254  0.956446  0.962314       574
+           1   0.958882  0.970050  0.964433       601
+
+    accuracy                       0.963404      1175
+   macro avg   0.963568  0.963248  0.963374      1175
+weighted avg   0.963460  0.963404  0.963398      1175
+
+============================================================
+============================================================
+Arquitetura: (20,)
+Ativação: logistic
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 591
+Acurácia: 0.963404
+Matriz de Confusão:
+[[549  25]
+ [ 18 583]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.968254  0.956446  0.962314       574
+           1   0.958882  0.970050  0.964433       601
+
+    accuracy                       0.963404      1175
+   macro avg   0.963568  0.963248  0.963374      1175
+weighted avg   0.963460  0.963404  0.963398      1175
+
+============================================================
+============================================================
+Arquitetura: (50,)
+Ativação: relu
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 296
+Acurácia: 0.965957
+Matriz de Confusão:
+[[551  23]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970070  0.959930  0.964974       574
+           1   0.962109  0.971714  0.966887       601
+
+    accuracy                       0.965957      1175
+   macro avg   0.966090  0.965822  0.965931      1175
+weighted avg   0.965998  0.965957  0.965953      1175
+
+============================================================
+============================================================
+Arquitetura: (50,)
+Ativação: relu
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 296
+Acurácia: 0.965957
+Matriz de Confusão:
+[[551  23]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970070  0.959930  0.964974       574
+           1   0.962109  0.971714  0.966887       601
+
+    accuracy                       0.965957      1175
+   macro avg   0.966090  0.965822  0.965931      1175
+weighted avg   0.965998  0.965957  0.965953      1175
+
+============================================================
+============================================================
+Arquitetura: (50,)
+Ativação: logistic
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 786
+Acurácia: 0.968511
+Matriz de Confusão:
+[[557  17]
+ [ 20 581]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.965338  0.970383  0.967854       574
+           1   0.971572  0.966722  0.969141       601
+
+    accuracy                       0.968511      1175
+   macro avg   0.968455  0.968553  0.968497      1175
+weighted avg   0.968527  0.968511  0.968512      1175
+
+============================================================
+============================================================
+Arquitetura: (50,)
+Ativação: logistic
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 786
+Acurácia: 0.968511
+Matriz de Confusão:
+[[557  17]
+ [ 20 581]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.965338  0.970383  0.967854       574
+           1   0.971572  0.966722  0.969141       601
+
+    accuracy                       0.968511      1175
+   macro avg   0.968455  0.968553  0.968497      1175
+weighted avg   0.968527  0.968511  0.968512      1175
+
+============================================================
+============================================================
+Arquitetura: (100,)
+Ativação: relu
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 272
+Acurácia: 0.966809
+Matriz de Confusão:
+[[552  22]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970123  0.961672  0.965879       574
+           1   0.963696  0.971714  0.967688       601
+
+    accuracy                       0.966809      1175
+   macro avg   0.966910  0.966693  0.966784      1175
+weighted avg   0.966836  0.966809  0.966805      1175
+
+============================================================
+============================================================
+Arquitetura: (100,)
+Ativação: relu
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 272
+Acurácia: 0.966809
+Matriz de Confusão:
+[[552  22]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970123  0.961672  0.965879       574
+           1   0.963696  0.971714  0.967688       601
+
+    accuracy                       0.966809      1175
+   macro avg   0.966910  0.966693  0.966784      1175
+weighted avg   0.966836  0.966809  0.966805      1175
+
+============================================================
+============================================================
+Arquitetura: (100,)
+Ativação: logistic
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 649
+Acurácia: 0.967660
+Matriz de Confusão:
+[[552  22]
+ [ 16 585]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.971831  0.961672  0.966725       574
+           1   0.963756  0.973378  0.968543       601
+
+    accuracy                       0.967660      1175
+   macro avg   0.967794  0.967525  0.967634      1175
+weighted avg   0.967701  0.967660  0.967655      1175
+
+============================================================
+============================================================
+Arquitetura: (100,)
+Ativação: logistic
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 649
+Acurácia: 0.967660
+Matriz de Confusão:
+[[552  22]
+ [ 16 585]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.971831  0.961672  0.966725       574
+           1   0.963756  0.973378  0.968543       601
+
+    accuracy                       0.967660      1175
+   macro avg   0.967794  0.967525  0.967634      1175
+weighted avg   0.967701  0.967660  0.967655      1175
+
+============================================================
+============================================================
+Arquitetura: (200,)
+Ativação: relu
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 182
+Acurácia: 0.964255
+Matriz de Confusão:
+[[551  23]
+ [ 19 582]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.966667  0.959930  0.963287       574
+           1   0.961983  0.968386  0.965174       601
+
+    accuracy                       0.964255      1175
+   macro avg   0.964325  0.964158  0.964230      1175
+weighted avg   0.964271  0.964255  0.964252      1175
+
+============================================================
+============================================================
+Arquitetura: (200,)
+Ativação: relu
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 182
+Acurácia: 0.964255
+Matriz de Confusão:
+[[551  23]
+ [ 19 582]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.966667  0.959930  0.963287       574
+           1   0.961983  0.968386  0.965174       601
+
+    accuracy                       0.964255      1175
+   macro avg   0.964325  0.964158  0.964230      1175
+weighted avg   0.964271  0.964255  0.964252      1175
+
+============================================================
+============================================================
+Arquitetura: (200,)
+Ativação: logistic
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 545
+Acurácia: 0.967660
+Matriz de Confusão:
+[[552  22]
+ [ 16 585]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.971831  0.961672  0.966725       574
+           1   0.963756  0.973378  0.968543       601
+
+    accuracy                       0.967660      1175
+   macro avg   0.967794  0.967525  0.967634      1175
+weighted avg   0.967701  0.967660  0.967655      1175
+
+============================================================
+============================================================
+Arquitetura: (200,)
+Ativação: logistic
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 545
+Acurácia: 0.967660
+Matriz de Confusão:
+[[552  22]
+ [ 16 585]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.971831  0.961672  0.966725       574
+           1   0.963756  0.973378  0.968543       601
+
+    accuracy                       0.967660      1175
+   macro avg   0.967794  0.967525  0.967634      1175
+weighted avg   0.967701  0.967660  0.967655      1175
+
+============================================================
+============================================================
+Arquitetura: (10, 10)
+Ativação: relu
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 525
+Acurácia: 0.965957
+Matriz de Confusão:
+[[551  23]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970070  0.959930  0.964974       574
+           1   0.962109  0.971714  0.966887       601
+
+    accuracy                       0.965957      1175
+   macro avg   0.966090  0.965822  0.965931      1175
+weighted avg   0.965998  0.965957  0.965953      1175
+
+============================================================
+============================================================
+Arquitetura: (10, 10)
+Ativação: relu
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 525
+Acurácia: 0.965957
+Matriz de Confusão:
+[[551  23]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970070  0.959930  0.964974       574
+           1   0.962109  0.971714  0.966887       601
+
+    accuracy                       0.965957      1175
+   macro avg   0.966090  0.965822  0.965931      1175
+weighted avg   0.965998  0.965957  0.965953      1175
+
+============================================================
+============================================================
+Arquitetura: (10, 10)
+Ativação: logistic
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 670
+Acurácia: 0.967660
+Matriz de Confusão:
+[[553  21]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970175  0.963415  0.966783       574
+           1   0.965289  0.971714  0.968491       601
+
+    accuracy                       0.967660      1175
+   macro avg   0.967732  0.967564  0.967637      1175
+weighted avg   0.967676  0.967660  0.967657      1175
+
+============================================================
+============================================================
+Arquitetura: (10, 10)
+Ativação: logistic
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 670
+Acurácia: 0.967660
+Matriz de Confusão:
+[[553  21]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970175  0.963415  0.966783       574
+           1   0.965289  0.971714  0.968491       601
+
+    accuracy                       0.967660      1175
+   macro avg   0.967732  0.967564  0.967637      1175
+weighted avg   0.967676  0.967660  0.967657      1175
+
+============================================================
+============================================================
+Arquitetura: (20, 20)
+Ativação: relu
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 323
+Acurácia: 0.965106
+Matriz de Confusão:
+[[554  20]
+ [ 21 580]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.963478  0.965157  0.964317       574
+           1   0.966667  0.965058  0.965862       601
+
+    accuracy                       0.965106      1175
+   macro avg   0.965072  0.965108  0.965089      1175
+weighted avg   0.965109  0.965106  0.965107      1175
+
+============================================================
+============================================================
+Arquitetura: (20, 20)
+Ativação: relu
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 323
+Acurácia: 0.965106
+Matriz de Confusão:
+[[554  20]
+ [ 21 580]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.963478  0.965157  0.964317       574
+           1   0.966667  0.965058  0.965862       601
+
+    accuracy                       0.965106      1175
+   macro avg   0.965072  0.965108  0.965089      1175
+weighted avg   0.965109  0.965106  0.965107      1175
+
+============================================================
+============================================================
+Arquitetura: (20, 20)
+Ativação: logistic
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 731
+Acurácia: 0.965957
+Matriz de Confusão:
+[[551  23]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970070  0.959930  0.964974       574
+           1   0.962109  0.971714  0.966887       601
+
+    accuracy                       0.965957      1175
+   macro avg   0.966090  0.965822  0.965931      1175
+weighted avg   0.965998  0.965957  0.965953      1175
+
+============================================================
+============================================================
+Arquitetura: (20, 20)
+Ativação: logistic
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 731
+Acurácia: 0.965957
+Matriz de Confusão:
+[[551  23]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970070  0.959930  0.964974       574
+           1   0.962109  0.971714  0.966887       601
+
+    accuracy                       0.965957      1175
+   macro avg   0.966090  0.965822  0.965931      1175
+weighted avg   0.965998  0.965957  0.965953      1175
+
+============================================================
+============================================================
+Arquitetura: (50, 50)
+Ativação: relu
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 193
+Acurácia: 0.965957
+Matriz de Confusão:
+[[550  24]
+ [ 16 585]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.971731  0.958188  0.964912       574
+           1   0.960591  0.973378  0.966942       601
+
+    accuracy                       0.965957      1175
+   macro avg   0.966161  0.965783  0.965927      1175
+weighted avg   0.966033  0.965957  0.965951      1175
+
+============================================================
+============================================================
+Arquitetura: (50, 50)
+Ativação: relu
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 193
+Acurácia: 0.965957
+Matriz de Confusão:
+[[550  24]
+ [ 16 585]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.971731  0.958188  0.964912       574
+           1   0.960591  0.973378  0.966942       601
+
+    accuracy                       0.965957      1175
+   macro avg   0.966161  0.965783  0.965927      1175
+weighted avg   0.966033  0.965957  0.965951      1175
+
+============================================================
+============================================================
+Arquitetura: (50, 50)
+Ativação: logistic
+Taxa de aprendizado: constant
+Max_iter configurado: 1000
+Épocas usadas até parada: 484
+Acurácia: 0.969362
+Matriz de Confusão:
+[[555  19]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970280  0.966899  0.968586       574
+           1   0.968491  0.971714  0.970100       601
+
+    accuracy                       0.969362      1175
+   macro avg   0.969385  0.969306  0.969343      1175
+weighted avg   0.969365  0.969362  0.969360      1175
+
+============================================================
+============================================================
+Arquitetura: (50, 50)
+Ativação: logistic
+Taxa de aprendizado: adaptive
+Max_iter configurado: 1000
+Épocas usadas até parada: 484
+Acurácia: 0.969362
+Matriz de Confusão:
+[[555  19]
+ [ 17 584]]
+Relatório de Classificação:
+              precision    recall  f1-score   support
+
+           0   0.970280  0.966899  0.968586       574
+           1   0.968491  0.971714  0.970100       601
+
+    accuracy                       0.969362      1175
+   macro avg   0.969385  0.969306  0.969343      1175
+weighted avg   0.969365  0.969362  0.969360      1175
+
+============================================================
+
+
+========= RELATÓRIO FINAL =========
+Melhor combinação geral:
+Arquitetura: (50, 50)
+Ativação: logistic
+Taxa de aprendizado: constant
+Acurácia: 0.9694
+
+Melhor arquitetura média:
+(50, 50) com média de acurácia 0.9677
+
+Melhor ativação média:
+logistic com média de acurácia 0.9671
+
+Melhor taxa de aprendizado média:
+adaptive com média de acurácia 0.9663
+=====================================
